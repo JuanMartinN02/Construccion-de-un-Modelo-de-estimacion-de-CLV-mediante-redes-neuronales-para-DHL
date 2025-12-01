@@ -1,0 +1,1 @@
+Primer intento de segmentar clientes via CLV con DataSet Viejo
